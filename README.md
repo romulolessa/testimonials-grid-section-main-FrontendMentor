@@ -1,7 +1,7 @@
 <h1 align="center"> Frontend Mentor - Testimonials grid section </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Programa exclusivo e gratuito, promovido pela Frontend Mentor para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
